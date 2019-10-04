@@ -1,1 +1,15 @@
+A strong grasp on the language paradigm, runtime, type system, concurrency models, syntax, unicode support, features, weaknesses, debugging, static analysis, build tools and deployment pipeline. A familiarity with its standard library, regular expressions and other regularly used libraries and frameworks.
 
+References
+
+Head First Java
+Effective Java
+Java Performance
+Java Concurrency in Practice
+Java Generics
+Fluent Python
+Effective Python
+Mastering Regular Expressions
+The Debugging Mindset
+Debugging: The nine indispensable rules
+The absolute minimum every programmer should know about Unicode (blog post)
