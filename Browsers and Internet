@@ -1,0 +1,18 @@
+Topics related to the functioning of the internet such as DNS, HTTP, SMTP. Familiarity with HTML and the Document and Browser Object Model.
+CSS and its box model as well as responsive design. Javascript programming in the browser and awareness of resources that list current 
+browser quirks and techniques. Other concepts such as Unicode, localisation, internationalisation, AJAX, caching, search engine 
+optimisation, proxying, and the browser javascript event loop. Finally, performance optimisation for the browser as well an understanding
+of how Content Delivery Networks work.
+
+
+References
+
+WebPlatform.org - https://webplatform.github.io/
+Frontend Web Development : The Big Nerd Ranch Guide
+What every programmer should know about SEO - https://katemats.com/what-every-programmer-should-know-about-seo/
+Javascript: The good parts
+Secrets of a Javascript Ninja
+Javascript Patterns
+High Performance Web Sites
+The front-end checklist - https://github.com/thedaviddias/Front-End-Checklist
+The front-end design checklist
