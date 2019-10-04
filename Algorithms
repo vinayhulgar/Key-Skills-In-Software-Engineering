@@ -1,0 +1,11 @@
+An understanding of various data structures such as stacks, queues, linked lists, sets, hash tables, heaps, trees, graphs and matrices.
+Topics like time and space complexity of algorithms, big-O notation, recursion, sorting, searching, traversal/enumeration, string 
+matching and search, greedy algorithms, dynamic programming, linear programming, divide and conquer and NP-completeness.
+
+References
+
+Introduction to Algorithms
+The Algorithm Design Manual
+Algorithms course by Shai Simonson [videos] - http://www.aduni.org/courses/algorithms/
+Theory of Computation course by Shai Simonson [videos] - http://www.aduni.org/courses/theory/
+Algorithms everyone should know - https://www.reddit.com/r/compsci/comments/1kcal2/algorithims_everyone_should_know/cbnhcbz/
