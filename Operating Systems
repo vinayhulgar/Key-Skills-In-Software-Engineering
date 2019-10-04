@@ -1,0 +1,11 @@
+Understanding the various sub-systems of an OS, specifically Linux. Complete clarity on concepts like process, thread, locks, interrupts, scheduling, memory addresses, segmentation, paging, select, IO subsystem, IO devices, file systems, shells, common commands etc.
+
+References
+
+Operating Systems: Three Easy Pieces
+Elements of Computing Systems
+Code
+Unix Programming Environment
+Art of Unix Programming
+What every programmer should know about memory - https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+Latency numbers every programmer should know - https://gist.github.com/jboner/2841832
