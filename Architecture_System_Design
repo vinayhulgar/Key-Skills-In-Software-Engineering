@@ -1,0 +1,20 @@
+An understanding of monoliths, service oriented, micro-service and peer to peer architectures. The use cases and distinction in 
+various concurrency models including but not limited to blocking, non-blocking, synchronous and asynchronous, threading, actor based, 
+reactive, communicating sequential processes, software transactional memory, coroutines, etc. Other concepts such as scalability, 
+high availability, CAP theorem, optimistic and pessimistic locking, distributed locks, ACID, caching, queuing, batch processing,
+load balancing, consistent hashing, consensus algorithms, sharding, federation, data warehousing, relational and non relational 
+stores, serializiability, Lamport clocks, service discovery, blue green deployments etc.
+
+
+
+References
+
+System Design Primer
+Clean Architecture
+Design-It
+Building Evolutionary Architectures
+Seven concurrency models in seven days
+Designing data-intensive applications
+Distributed Systems - https://github.com/donnemartin/system-design-primer
+Awesome distributed systems collection - https://github.com/theanalyst/awesome-distributed-systems
+Leslie Lamports Writings - http://lamport.azurewebsites.net/pubs/pubs.html
