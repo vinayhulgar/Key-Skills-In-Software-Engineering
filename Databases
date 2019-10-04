@@ -1,0 +1,14 @@
+Databases
+Understanding relational row stores, ACID properties and SQL . Also learn relational column stores and NoSQL Key Value and Document based databases. Its also important to know about high availability, sharding and replication.
+
+References
+
+Database System Concepts
+Reading in Database Systems (Advanced)
+Head First SQL
+SQL AntiPatterns
+High Performance MySQL
+The Art of SQL
+SQL Queries for Mere Mortals
+SQL Performance Explained
+NoSQL Databases
