@@ -7,7 +7,6 @@ test driven development, security and other best practices.<br />
 
 
   :scroll: References<br />
-
       :closed_umbrella:  Clean Code<br />
       :closed_umbrella:  Head First Design Patterns<br />
       :closed_umbrella:  Programming Pearls<br />
