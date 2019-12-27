@@ -25,3 +25,28 @@ test driven development, security and other best practices.<br />
       :closed_umbrella:  Writing Secure Code<br />
       :closed_umbrella:  Iron Clad Java<br />
       :closed_umbrella:  Security Engineering - https://www.cl.cam.ac.uk/~rja14/musicfiles/manuscripts/SEv1.pdf<br />
+
+
+:closed_book: Familiarity with object oriented and functional programming paradigms as well as design patterns, anti patterns, refactoring, test driven development, security and other best practices.<br />
+
+
+  :scroll: References<br />
+
+  :saxophone:  Clean Code<br />
+  :saxophone:  Head First Design Patterns<br />
+  :saxophone:  Programming Pearls<br />
+  :saxophone:  Structure and Interpretation of Computer Programs<br />
+  :saxophone:  Domain Driven Design<br />
+  :saxophone:  Test Driven Development By Example<br />
+  :saxophone:  Release It<br />
+  :saxophone:  Refactoring<br />
+  :saxophone:  Refactoring to patterns<br />
+  :saxophone:  Functional Thinking<br />
+  :saxophone:  Professor Frisby’s mostly adequate guide to functional programming - https://mostly-adequate.gitbooks.io/mostly-adequate-guide/<br />
+  :saxophone:  Falsehoods programmers believe in - https://github.com/kdeldycke/awesome-falsehood<br />
+  :saxophone:  Foundations of Security: What every programmer should know<br />
+  :saxophone:  24 Deadly Sins of Software Security<br />
+  :saxophone:  Open Web Application Security Project - https://www.owasp.org/index.php/Main_Page<br />
+  :saxophone:  Writing Secure Code<br />
+  :saxophone:  Iron Clad Java<br />
+  :saxophone:  Security Engineering - https://www.cl.cam.ac.uk/~rja14/musicfiles/manuscripts/SEv1.pdf<br />
